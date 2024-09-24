@@ -1,3 +1,2 @@
-# practice
-For start with git.
-This is my first repo on github.
+Small programs to practice some Object Oriented concepts
+using Java
